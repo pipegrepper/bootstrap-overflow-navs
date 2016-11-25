@@ -18,7 +18,7 @@
  *
  * This is a fork from  tomiford/bootstrap-overflow-navs (github)
  *
- * This version is especially for Bootstrap 3.2.2 and has not many options.
+ * This version is especially for Bootstrap 3 and does not have many options.
  * Though it reacts to window resizing and shrinks and expands also
  * on orientation change (tested on Android). The code is much more compact
  * but maybe not the fastest.
