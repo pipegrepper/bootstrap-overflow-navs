@@ -4,7 +4,7 @@ Bootstrap Overflow Navs Instructions
 This plugin will pull the contents of the navbar into a bootstrap dropdown if the width of the ul exceeds that of the page.
 
 Twitter Bootstrap 3 is required for this jQuery plugin to work, download it from https://github.com/twbs/bootstrap
-This is tested with bootstrap 3.2.2 and reacting to window resizing.
+This is tested with bootstrap 3.3.7, jquery 3.1 and reacting to window resizing.
 ## Getting started
 
 Include jQuery, bootstrap (CSS and Javascript) and the plugin on a page. Then select a nav to apply the plugin to.
